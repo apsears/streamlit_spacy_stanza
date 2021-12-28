@@ -1,0 +1,3 @@
+git+https://github.com/apsears/spacy-streamlit@allow_stanza
+stanza
+spacy-stanza
